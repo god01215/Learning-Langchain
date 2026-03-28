@@ -12,6 +12,7 @@ dependencies = [
     "langchain-google-genai>=4.2.1",
     "langchain-google-vertexai>=3.2.2",
     "langchain-ollama>=1.0.1",
+    "langchain-text-splitters>=1.1.1",
     "pydantic>=2.12.5",
     "pydantic-settings>=2.13.1",
     "pypdf>=6.9.2",
