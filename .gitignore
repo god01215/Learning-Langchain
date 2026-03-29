@@ -11,3 +11,9 @@ wheels/
 
 # Local secrets
 .env
+
+# db
+*.db
+*.sqlite
+Chroma_db/
+
